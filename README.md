@@ -3,7 +3,7 @@ A repository containing all of my Knowledge Checks for the May 2022 Code Louisvi
 
 ## Knowledge Check 1
 
-<p float="left">
+<p float="center">
    <img src="./KC1Preview.png" alt="Preview" width="400"/>
    <img src="./KC1Preview.png" alt="Preview" width="400"/>
 </p>
