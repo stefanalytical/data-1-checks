@@ -16,3 +16,8 @@ print('Most Common Team Conference: ' + str(freq))
 teams = df['height_feet'].isna().sum()
 print('Number of Players With Unreported Heights (NaN): ' + str(teams))
 
+
+# Perform query to only display Grizzlies
+query = df[df['team.name'] == 'Grizzlies']
+print('Below is a queried subset showing only Grizzlies:')
+print(query)
