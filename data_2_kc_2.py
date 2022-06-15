@@ -36,6 +36,3 @@ print(df)
 # Count and display the number of cells thate are NaN again. Will display zero.
 nan = df.isnull().sum().sum()
 print('Number of NaNs: ' + str(nan))
-
-
-
