@@ -33,6 +33,6 @@ print('Number of NaNs: ' + str(nan))
 df['weight_pounds'] = df['weight_pounds'].fillna(0)
 print(df)
 
-# Count and display the number of cells thate are NaN again. Will display zero.
+# Count and display the number of cells thate are NaN again. Displays zero.
 nan = df.isnull().sum().sum()
 print('Number of NaNs: ' + str(nan))
