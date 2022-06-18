@@ -9,6 +9,7 @@ Preview of running kc1.py file:
 </p>
 
 ## Knowledge Check 2
+Preview of running data_kc_2:
 
 ## Knowledge Check 3
 
